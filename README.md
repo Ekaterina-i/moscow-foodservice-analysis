@@ -36,25 +36,5 @@
 2. **`rest_price.csv`**: Информация о среднем чеке для каждого заведения.
    - Источник: `https://code.s3.yandex.net/datasets/rest_price.csv`
 
-## Как запустить проект
-
-1. **Клонируйте репозиторий** на свой компьютер:
-   ```bash
-   git clone https://github.com/Ekaterina-i/moscow-foodservice-analysis.git
-   cd moscow-foodservice-analysis
-   ```
-
-2. **(Рекомендуется) Создайте и активируйте виртуальное окружение** (опционально, но желательно для изоляции зависимостей).
-
-3. **Установите необходимые зависимости** из файла `requirements.txt`:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Запустите Jupyter Notebook** и откройте файл `Project_8.ipynb`:
-   ```bash
-   jupyter notebook
-   ```
-
-## Автор
-Екатерина Игнатьева
+---
+Автор: _Екатерина Игнатьева_
